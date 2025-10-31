@@ -1,0 +1,7 @@
+artifacts/*
+logs/*
+research/pegasus-samsum-model/
+research/pegasus-samsum/
+research/summarizer-data.zip
+research/summarizer-data/
+research/tokenizer/
